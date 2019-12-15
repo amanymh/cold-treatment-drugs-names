@@ -1,30 +1,30 @@
-# starwars-names
+# cold-treatment-drugs-names
 
-[![travis build](https://img.shields.io/travis/kentcdodds/starwars-names.svg?style=flat-square)](https://travis-ci.org/kentcdodds/starwars-names)
-[![codecov coverage](https://img.shields.io/codecov/c/github/kentcdodds/starwars-names.svg?style=flat-square)](https://codecov.io/github/kentcdodds/starwars-names)
-[![version](https://img.shields.io/npm/v/starwars-names.svg?style=flat-square)](http://npm.im/starwars-names)
-[![downloads](https://img.shields.io/npm/dm/starwars-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=starwars-names&from=2015-08-01)
-[![MIT License](https://img.shields.io/npm/l/starwars-names.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![travis build](https://img.shields.io/travis/kentcdodds/cold-treatment-drugs-names.svg?style=flat-square)](https://travis-ci.org/kentcdodds/cold-treatment-drugs-names)
+[![codecov coverage](https://img.shields.io/codecov/c/github/kentcdodds/cold-treatment-drugs-names.svg?style=flat-square)](https://codecov.io/github/kentcdodds/cold-treatment-drugs-names)
+[![version](https://img.shields.io/npm/v/cold-treatment-drugs-names.svg?style=flat-square)](http://npm.im/cold-treatment-drugs-names)
+[![downloads](https://img.shields.io/npm/dm/cold-treatment-drugs-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=cold-treatment-drugs-names&from=2015-08-01)
+[![MIT License](https://img.shields.io/npm/l/cold-treatment-drugs-names.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 
 Get random names from Star Wars characters.
 
-<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/starwars-names" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/starwars-names.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/cold-treatment-drugs-names" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/cold-treatment-drugs-names.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
 
-![starwars-names](other/starwars-names.gif)
+![cold-treatment-drugs-names](other/cold-treatment-drugs-names.gif)
 
 ## Installation
 
 This package is distributed via npm:
 
 ```
-npm install starwars-names
+npm install cold-treatment-drugs-names
 ```
 
 ## Usage
 
 ```javascript
-var names = require('starwars-names');
+var names = require('cold-treatment-drugs-names');
 var allNames = names.all;
 var randomName = names.random();
 var threeRandomNames = names.random(3);
