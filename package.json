@@ -1,6 +1,6 @@
 {
 	"name": "cold-treatment-drugs-names",
-	"version": "0.0.0-semantically-released",
+	"version": "0.0.0",
 	"description": "Get Cold Treatment Drugs names",
 	"main": "dist/index.js",
 	"scripts": {
@@ -26,8 +26,15 @@
 		"type": "git",
 		"url": "https://github.com/amanymh/cold-treatment-drugs-names.git"
 	},
-	"keywords": [ "random", "star", "wars" ],
-	"files": [ "dist", "README.md" ],
+	"keywords": [
+		"random",
+		"star",
+		"wars"
+	],
+	"files": [
+		"dist",
+		"README.md"
+	],
 	"author": "Amany Harb <amany.m.harb@gmail.com> (http://amanymh.com/)",
 	"license": "MIT",
 	"bugs": {
@@ -68,8 +75,10 @@
 			"path": "node_modules/cz-conventional-changelog"
 		}
 	},
-
 	"babel": {
-		"presets": [ "es2015", "stage-2" ]
+		"presets": [
+			"es2015",
+			"stage-2"
+		]
 	}
 }
