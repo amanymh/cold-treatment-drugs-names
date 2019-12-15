@@ -7,7 +7,7 @@ branches:
   only:
     - master
 notifications:
-  email: false
+  email: amany.m.harb@gmail.com
 before_script:
   - npm prune
 script:
